@@ -1000,7 +1000,7 @@ local NoHyper = loadstring(game:HttpGet(("https://raw.githubusercontent.com/3345
 
 NoHyper.set_theme('neverlose') -- [[nohyper , bedol , neverlose, green]]
 
-local Window = NoHyper.new('Star X - Blade ball',"rbxassetid://93079131828771",'The Smootest, Nicest Blade Ball Script') -- My Logo you can replace it
+local Window = NoHyper.new('Rui 3mk',"rbxassetid://93079131828771",'best way to be Pro') -- My Logo you can replace it
 Window:NewSize(UDim2.new(0.1,430,0.1,300))
 
 
